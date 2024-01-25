@@ -1,2 +1,4 @@
 # StudentPromo
-FabLab Student promotional material
+Promotional material for FabLab Student
+
+This includes logo, tshirt designs, brochures etc. 
